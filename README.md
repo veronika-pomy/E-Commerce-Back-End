@@ -79,4 +79,4 @@ This list includes resources used for the project.
 <p align="right">(<a href="#e-commerce-back-end">back to top</a>)</p>
 
 [license-shield]: https://img.shields.io/badge/license-MIT-blue?style=for-the-badge
-[license-url]: https://github.com/veronika-pomy/Employee-Tracker/blob/main/LICENSE
+[license-url]: https://github.com/veronika-pomy/E-Commerce-Back-End/blob/main/LICENSE
